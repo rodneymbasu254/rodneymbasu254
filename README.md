@@ -18,7 +18,7 @@
 
 - 📄 Visit my Google developer profile [https://g.dev/rodneymbasu/](https://g.dev/rodneymbasu/)
 
-- 😎 Call me Wiz@rd™
+- 😎 Call me Wiz@rd™ 
 
 </p>
 <h3 align="left">Connect with me:</h3>
