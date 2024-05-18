@@ -27,7 +27,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,bash,html,css,django,c,cs,git,androidstudio,stackoverflow,azure,vercel,github,net,typescript,unity,linux,md,mysql,nodejs,sass,react,sqlite,cpp,unreal&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,java,js,bash,html,css,django,c,cs,git,androidstudio,stackoverflow,azure,vercel,github,net,typescript,unity,linux,md,mysql,nodejs,sass,react,sqlite,cpp,unreal&perline=6)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rodneymbasu254&theme=radical&hide_border=true" alt="rodneymbasu254" /></p>
 
