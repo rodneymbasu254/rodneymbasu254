@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mbasu Rodney</h1>
 <h3 align="center">A passionate developer from Kenya</h3>
  <p align="center">
- <img src="https://readme-typing-svg.demolab.com/?lines=Always+versatile;Data+Scientist;Computer+scientist;Full+stack+developer;From+Nairobi+Kenya;Game+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+ <img src="https://readme-typing-svg.demolab.com/?lines=Always+versatile;Data+Scientist;Computer+scientist;AI/ML+developer;From+Nairobi+Kenya;Game+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
  </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodneymbasu254&label=Profile%20views&color=0e75b6&style=flat" alt="rodneymbasu254" /> </p>
 
