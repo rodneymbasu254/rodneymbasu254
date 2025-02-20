@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mbasu Rodney</h1>
 <h3 align="center">A passionate developer</h3>
-<h3 align="left", color = 'blue'>CEO Wiz@rd group</h3>
+<h3 align="left"><u>CEO</u> Wiz@rd group</h3>
  <p align="center">
  <img src="https://readme-typing-svg.demolab.com/?lines=Always+versatile;Data+Scientist;Computer+scientist;AI/ML+developer;From+Nairobi+Kenya;Game+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
  </p>
