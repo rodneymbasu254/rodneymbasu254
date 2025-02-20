@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mbasu Rodney</h1>
-<h3 align="center">A passionate developer from Kenya</h3>
+<h3 align="center">A passionate developer</h3>
+<h3 align="left">CEO Wiz@rd group</h3>
  <p align="center">
  <img src="https://readme-typing-svg.demolab.com/?lines=Always+versatile;Data+Scientist;Computer+scientist;AI/ML+developer;From+Nairobi+Kenya;Game+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
  </p>
@@ -10,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/mbasurodney" target="blank"><img src="https://img.shields.io/twitter/follow/mbasurodney?logo=twitter&style=for-the-badge" alt="rodneymbasu" /></a> </p>
 
 
-- 🌱 I’m currently doing **Machine Learning Using Microsoft Azure AI**
+- 🌱 I’m currently doing **Machine Learning **
 
 - 👨‍💻 All of my projects are available at [https://github.com/rodneymbasu254?tab=repositories](https://github.com/rodneymbasu254?tab=repositories)
 
