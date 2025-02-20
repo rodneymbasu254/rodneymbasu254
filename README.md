@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/mbasurodney" target="blank"><img src="https://img.shields.io/twitter/follow/mbasurodney?logo=twitter&style=for-the-badge" alt="rodneymbasu" /></a> </p>
 
 
-- 🌱 I’m currently doing **Machine Learning **
+- 🌱 AI
 
 - 👨‍💻 All of my projects are available at [https://github.com/rodneymbasu254?tab=repositories](https://github.com/rodneymbasu254?tab=repositories)
 
